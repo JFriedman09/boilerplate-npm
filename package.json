@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"description": "Learning about npm is awesome",
 	"author": "Jeremy Friedman",
+	"keywords": ["freecodecamp", "learning", "npm"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
