@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"description": "Learning about npm is awesome!",
+	"description": "Learning about npm is awesome",
 	"author": "Jeremy Friedman",
 	"dependencies": {
 		"express": "^4.14.0"
